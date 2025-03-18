@@ -70,7 +70,6 @@ Gerentes podem excluir registros do sistema.
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- *Detalhar aqui as linguagens, frameworks e ferramentas usados no projeto, por exemplo:*
   - Linguagem: Java
   - Banco de dados: MySQL
   - Frameworks: Swing para interface gráfica
